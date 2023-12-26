@@ -1,0 +1,23 @@
+_repo: Laulu-vaakalinnusta-b-Runoja_72259
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mustapää, P.
+    gutenberg_agent_id: '56622'
+    url: http://www.gutenberg.org/2009/agents/56622
+description: ''
+gutenberg_issued: '2023-11-29'
+identifiers:
+  gutenberg: '72259'
+language: fi
+pgterms:marc905: 20231127090544haavio
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+publication_note: '  $aPorvoo :$bWSOY, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Laulu vaakalinnusta : $b Runoja'
+url: http://www.gutenberg.org/ebooks/72259
